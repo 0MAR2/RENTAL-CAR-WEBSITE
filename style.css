@@ -45,7 +45,7 @@ a{
     text-align: center;
 }
 
-.c3:hover,.c2:hover,.c1:hover{
+a:hover,.c3:hover,.c2:hover,.c1:hover{
     background-color: black;
     color:red;
 }
